@@ -1,5 +1,11 @@
 # Services
 
+## Confluence
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg" alt="Confluence logo" title="Confluence" width="160" align="right">
+
+Some teams with the organisation are using [Confluence](https://national-archives.atlassian.net/wiki/home) to document their ways of working, architectural decisions, and code. Where possible we try to document in the open as this enables reuse of our code but if an internal space is required, Confluence can be used. For more information on our documentation standards, see [Documentation](../ways-of-working/documentation.md).
+
 ## Docker
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/240px-Docker_logo.svg.png" alt="Docker logo" title="Docker" width="160" align="right">
@@ -25,3 +31,9 @@ Read our [GitHub guidelines](../../third-party/github/) for a better idea of how
 ## GovWifi
 
 [Connect a device to GovWifi](https://www.wifi.service.gov.uk/connect-to-govwifi/)
+
+## Jira
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" alt="Jira logo" title="JIRA" width="160" align="right">
+
+Many of our teams use [JIRA](https://national-archives.atlassian.net/jira) to manage projects and track changes. Each service has its own project in JIRA which is managed by the service team. JIRA can be very flexible, each team has designed their workflow to meet their needs.
