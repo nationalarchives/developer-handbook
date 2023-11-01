@@ -30,4 +30,6 @@ Some IDEs have terminal built in which leverage the CLI of the OS.
 
 ## AWS CLI
 
+For teams working with systems hosted in AWS the [AWS CLI](https://aws.amazon.com/cli/) simplifies a lot of tasks. When first installed, you'll need to [configure the CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html) with credentials, we recommend using IAM Identity Center (SSO).
+
 ## Tunnelblick
