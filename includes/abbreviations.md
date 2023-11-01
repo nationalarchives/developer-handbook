@@ -9,7 +9,7 @@
 *[CSS]: Cascading style sheets
 *[DA]: Digital Archiving, a department of The National Archives
 *[DB]: Database
-*[DRI]: Digital repository interface
+*[DRI]: Digital Records Infrastructure, a team within Digital Archiving
 *[DS]: Digital Services, a department of The National Archives
 *[ECMAScript]: A JavaScript standard
 *[ES5]: Version 5 of ECMAScript, a JavaScript standard
